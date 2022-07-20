@@ -14,6 +14,16 @@ sudo chown root test.sh // change ownership to root
 grep -i "the" poems.txt
 grep -vi "the" poems.txt
 
+df 
+df -m 
+ping google.com 
+uname -a
+top 
+
+
+
+
+
 
 
 
