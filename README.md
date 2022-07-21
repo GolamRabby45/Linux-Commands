@@ -18,7 +18,9 @@ df
 df -m 
 ping google.com 
 uname -a
-top 
+top
+
+/etc, /mnt, /media, /root, /lib, /bin/sbin, /dev, /proc, /sys
 
 
 
